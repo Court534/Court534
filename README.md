@@ -2,7 +2,7 @@
 
 - 🌱 - Aspiring junior developer, recently graduated from the [Makers Academy](https://makers.tech/) bootcamp (Oct2021 Cohort)
 - 🥅 - 2022 Goals: 
-- Land my first role as a junior developer
+-- Land my first role as a junior developer
 - Maximise my learning
 - Contribute to new projects
 - ⚡ - Fun fact: I enjoy going to the gym 🏋️ playing the drums 🥁 video games 🎮
