@@ -1,10 +1,7 @@
 ### Hi there, I'm Courtney 👋
 
 - 🌱 - Aspiring junior developer, recently graduated from the [Makers Academy](https://makers.tech/) bootcamp (Oct2021 Cohort)
-- 🥅 - 2022 Goals: 
--- Land my first role as a junior developer
-- Maximise my learning
-- Contribute to new projects
+- 🥅 - 2022 Goals: Land my first role as a junior develope, maximise my learning, contribute to new projects
 - ⚡ - Fun fact: I enjoy going to the gym 🏋️ playing the drums 🥁 video games 🎮
 
 - After being made redundant from my previous job I thought it was time for a change and do something i'm passionate about. After 3 months of self-study I joined Makers Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. I am now ready for a junior developer role. I'm a very determined person and I can't wait to get started with my new career.
