@@ -6,6 +6,12 @@
 
 - After being made redundant from my previous job I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined Makers Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. I am now looking for my first junior developer role. I'm a very determined person and I can't wait to get started with my new career.
 
+💬 Self learning resources 
+- freeCodeCamp [Responsive web design](https://www.freecodecamp.org/learn/responsive-web-design). Currently working through this to sharpen my knowledge.     Representing approximately 300 hours of coursework.
+- Codecademy - Completed: Ruby [Codecademy profile](https://www.codecademy.com/users/Court534)
+- Codewars - Current point level: 6 kyu (203 points)[Codewars profile](https://www.codewars.com/users/Court94)
+- codewithmosh - Working through [The Ultimate HTML5 & CSS3 Series](https://codewithmosh.com/p/the-ultimate-html-css)
+
 ## <br />
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Court534&show_icons=true&&count_private=true&include_all_commits=true)
