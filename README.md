@@ -8,7 +8,7 @@
 
 💬 Self learning resources 
 - freeCodeCamp [Responsive web design](https://www.freecodecamp.org/learn/responsive-web-design). Currently working through this to sharpen my knowledge.     Representing approximately 300 hours of coursework.
-- Codecademy - Completed: Ruby [Codecademy profile](https://www.codecademy.com/users/Court534)
+- Codecademy - Completed: Learn Ruby [Codecademy profile](https://www.codecademy.com/users/Court534)
 - Codewars - Current point level: 6 kyu (203 points) [Codewars profile](https://www.codewars.com/users/Court94)
 - codewithmosh - Working through [The Ultimate HTML5 & CSS3 Series](https://codewithmosh.com/p/the-ultimate-html-css)
 
