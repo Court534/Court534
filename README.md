@@ -40,6 +40,9 @@
 
 <br />
 
+[1]:https://github.com/Court534/Rails-Friends
+[2]:https://github.com/Court534/vidly
+[3]:https://github.com/Court534/Acebook-Pizza
 
 <!--
 **Court534/Court534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
