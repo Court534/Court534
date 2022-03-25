@@ -18,6 +18,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Court534&layout=compact&langs_count=8)
 
+## <a name="projects">Projects</a>
+
+| Name                         | Description                     | Tech/tools                                                        |
+| -----------------------------| ------------------------        | ----------------------
+| **[Rails-Friends][1]**       | Friends information organiser   | HTML, CSS, Ruby, Ruby on Rails, Bootstrap
+| **[vidly][2]**               | Simple CRUD movie database      | JavaScript, CSS, HTML, Bootstrap 
+| **[Acebook-Pizza][3]**       | Social media site               | Rails, HTML, CSS, Bootstrap, Rspec   
+
 ### Technologies most used:
 <p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
