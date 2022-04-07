@@ -24,7 +24,7 @@
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
 | **[Rails-Friends][1]**       | Friends information organiser   | HTML, CSS, Ruby, Ruby on Rails, Bootstrap
-| **[vidly][2]**               | Simple CRUD movie database      | JavaScript, CSS, HTML, Bootstrap 
+| **[vidly][2]**               | Simple movie database      | JavaScript, CSS, HTML, Bootstrap 
 | **[Acebook-Pizza][3]**       | Social media site               | Rails, HTML, CSS, Bootstrap, Rspec   
 
 ### Technologies most used:
