@@ -23,9 +23,11 @@
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
-| **[Rails-Friends][1]**       | Friends information organiser   | HTML, CSS, Ruby, Ruby on Rails, Bootstrap
-| **[vidly][2]**               | Simple movie database      | JavaScript, CSS, HTML, Bootstrap 
-| **[Acebook-Pizza][3]**       | Social media site               | Rails, HTML, CSS, Bootstrap, Rspec   
+| **[Travel_Advisor][1]**      | Site to find things to do or places to eat/drink      | JavaScript, React, CSS, HTML, RapidAPI
+| **[Rails-Friends][2]**       | Friends information organiser   | HTML, CSS, Ruby, Ruby on Rails, Bootstrap
+| **[vidly][3]**               | Simple movie database      | JavaScript, CSS, HTML, Bootstrap 
+| **[Acebook-Pizza][4]**       | Social media site               | Rails, HTML, CSS, Bootstrap, Rspec   
+
 
 ### Technologies most used:
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
@@ -41,9 +43,10 @@
 
 <br />
 
-[1]:https://github.com/Court534/Rails-Friends
-[2]:https://github.com/Court534/vidly
-[3]:https://github.com/Court534/Acebook-Pizza
+[1]:https://github.com/Court534/travel-advisor
+[2]:https://github.com/Court534/Rails-Friends
+[3]:https://github.com/Court534/vidly
+[4]:https://github.com/Court534/Acebook-Pizza
 
 <!--
 **Court534/Court534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
