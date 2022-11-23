@@ -16,9 +16,9 @@
 ##
 <br/>
 
-![stats](https://github-readme-stats.vercel.app/api?username=Court534&show_icons=true&&count_private=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Court534&layout=compact&langs_count=8)
+
+![stats](https://github-readme-stats.vercel.app/api?username=Court534&show_icons=true&&count_private=true&include_all_commits=true)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=court534&" alt="court534" /></p> -->
 
