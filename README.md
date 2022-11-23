@@ -6,11 +6,11 @@
 
 - After being made redundant from my previous job I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined Makers Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of September 2022 I started my journey as a Software Engineer. I'm a very determined person and I can't wait to get started with my new career.
 
-💬 Self learning resources 
+💬 Self learning resources I would recommend 
 - freeCodeCamp [Responsive web design](https://www.freecodecamp.org/learn/responsive-web-design).
 - Codecademy - Completed: Learn Ruby [Codecademy profile](https://www.codecademy.com/users/Court534)
 - Codewars - Current point level: 6 kyu (219 points) [Codewars profile](https://www.codewars.com/users/Court94)
-- codewithmosh - [The Ultimate HTML5 & CSS3 Series](https://codewithmosh.com/p/the-ultimate-html-css) 
+- Python Programmer - [Youtube Channel](https://www.youtube.com/@gilesmcmullen) 
 - codewithmosh - [Complete Python Mastery](https://codewithmosh.com/p/python-programming-course-beginners)
 
 ##
