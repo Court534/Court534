@@ -20,11 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Court534&layout=compact&langs_count=8)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=court534&show_icons=true&locale=en&layout=compact" alt="court534" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=court534&show_icons=true&locale=en" alt="court534" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=court534&" alt="court534" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=court534&" alt="court534" /></p> -->
 
 ## <a name="projects">Most Recent Projects</a>
 
