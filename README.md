@@ -1,6 +1,7 @@
 ### Hi there, I'm Courtney 👋
 
 - 🌱 - Graduated from the [Makers Academy](https://makers.tech/) bootcamp (Oct2021 Cohort)
+- 🔭 I’m currently working as a Software Engineer at [Xander Talent](https://www.xandertalent.com/)
 - 🥅 - 2022 Goals: Maximise my learning, contribute to new projects
 - ⚡ - Fun facts: I enjoy going to the gym 🏋️ playing the drums 🥁 video games 🎮
 
