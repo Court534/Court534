@@ -27,7 +27,7 @@ I enjoy working on challenging projects that require creative problem-solving an
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=court534&" alt="court534" /></p> -->
 
-## <a name="projects">Most Recent Projects</a>
+## <a name="projects">Projects</a>
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
