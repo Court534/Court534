@@ -3,7 +3,7 @@
 - 🌱  Graduated from the [Makers Academy](https://makers.tech/) bootcamp (Oct2021 Cohort)
 - 🔭  I’m currently working as a Software Engineer at [Xander Talent](https://www.xandertalent.com/)
 - 🥅  2023 Goals: Maximise my learning, contribute to new projects
-- ⚡  Fun facts: I enjoy going to the gym 🏋️ playing the drums 🥁 video games 🎮
+- ⚡  Fun facts: I enjoy going to the gym 🏋️ playing the drums 🥁 playing video games 🎮
 
 After being made redundant from my previous job I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined Makers Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of September 2022 I started my journey as a Software Engineer.
 
