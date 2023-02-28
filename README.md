@@ -21,7 +21,7 @@ I enjoy working on challenging projects that require creative problem-solving an
 ##
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Court534&layout=compact&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Court534&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Court534&show_icons=true&&count_private=true&include_all_commits=true)
 
