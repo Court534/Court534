@@ -18,8 +18,6 @@ I enjoy working on challenging projects that require creative problem-solving an
 - Python Programmer - [Youtube Channel](https://www.youtube.com/@gilesmcmullen) 
 - codewithmosh - [Complete Python Mastery](https://codewithmosh.com/p/python-programming-course-beginners)
 
-![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
-
 ##
 <br/>
 
@@ -57,3 +55,5 @@ I enjoy working on challenging projects that require creative problem-solving an
 [2]:https://github.com/Court534/Rails-Friends
 [3]:https://github.com/Court534/vidly
 [4]:https://github.com/Court534/Acebook-Pizza
+
+![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
