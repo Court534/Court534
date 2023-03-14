@@ -5,7 +5,7 @@
 - 🥅  2023 Goals: Maximise my learning, contribute to new projects
 - ⚡  Fun facts: I enjoy going to the gym 🏋️ playing the drums 🥁 playing video games 🎮
 
-After being made redundant from my previous job I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined Makers Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of September 2022 I started my journey as a Software Engineer.
+After being made redundant from my previous job I thought it was time for a change and to do something I'm passionate about. After 3 months of self-study I joined Makers Academy to improve my coding and to learn new skills and languages to make me a desirable candidate for my future employer. As of September 2022 I started my journey as a Software Engineering Consultant.
 
 I now have a strong understanding of the software development life cycle and a passion for delivering high-quality, well-designed products. I have experienced a variety of programming languages, including Python, JavaScript and Ruby. I have also worked with web development frameworks such as Django, React and Ruby on Rails. 
 
