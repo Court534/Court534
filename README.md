@@ -33,7 +33,7 @@ I enjoy working on challenging projects that require creative problem-solving an
 | -----------------------------| ------------------------        | ----------------------
 | **[Travel_Advisor][1]**      | Site to find things to do or places to eat/drink      | JavaScript, React, CSS, HTML, RapidAPI
 | **[Rails-Friends][2]**       | Friends information organiser   | HTML, CSS, Ruby, Ruby on Rails, Bootstrap
-| **[vidly][3]**               | Simple movie database      | JavaScript, CSS, HTML, Bootstrap 
+| **[Shooter-X][3]**               | "D Top-Down Shooter      | C#, Unity, Unity Assets,  
 | **[Acebook-Pizza][4]**       | Social media site               | Rails, HTML, CSS, Bootstrap, Rspec   
 
 
@@ -53,7 +53,7 @@ I enjoy working on challenging projects that require creative problem-solving an
 
 [1]:https://github.com/Court534/travel-advisor
 [2]:https://github.com/Court534/Rails-Friends
-[3]:https://github.com/Court534/vidly
+[3]:https://github.com/Court534/Multiplayer-Game
 [4]:https://github.com/Court534/Acebook-Pizza
 
 ![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
