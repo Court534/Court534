@@ -57,4 +57,4 @@ I enjoy working on challenging projects that require creative problem-solving an
 [3]:https://github.com/Court534/Multiplayer-Game
 [4]:https://github.com/Court534/Acebook-Pizza
 
-![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png href='https://www.xandertalent.com/')
+![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
