@@ -1,3 +1,5 @@
+https://camo.githubusercontent.com/abe0d8ad025e5a221d96d45456f060077817dfb65a77e1b79d1e8097828a96f7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4f6c697665724361646d616e
+
 ### Hi there, I'm Courtney 👋
 
 - 🌱  Graduated from the [Makers Academy](https://makers.tech/) bootcamp (Oct2021 Cohort)
