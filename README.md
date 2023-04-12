@@ -12,11 +12,11 @@ I now have a strong understanding of the software development life cycle and a p
 I enjoy working on challenging projects that require creative problem-solving and attention to detail, and I am always eager to learn new technologies and programming languages. I am a motivated and collaborative team player who is dedicated to delivering outstanding results on every project I work on.
 
 💬 Self learning resources I would recommend 
-- freeCodeCamp [Responsive web design](https://www.freecodecamp.org/learn/responsive-web-design).
-- Codecademy - Completed: Learn Ruby [Codecademy profile](https://www.codecademy.com/users/Court534)
-- Codewars - Current point level: 6 kyu (219 points) [Codewars profile](https://www.codewars.com/users/Court94)
+- [freeCodeCamp](https://www.freecodecamp.org/learn/)
+- [Codecademy](https://www.codecademy.com)
+- Codewars - Current point level: 6 kyu (225 points) [Codewars profile](https://www.codewars.com/users/Court94)
 - Python Programmer - [Youtube Channel](https://www.youtube.com/@gilesmcmullen) 
-- codewithmosh - [Complete Python Mastery](https://codewithmosh.com/p/python-programming-course-beginners)
+- [codewithmosh](https://codewithmosh.com/)
 
 ##
 <br/>
