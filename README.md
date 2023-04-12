@@ -14,9 +14,10 @@ I enjoy working on challenging projects that require creative problem-solving an
 💬 Self learning resources I would recommend 
 - [freeCodeCamp](https://www.freecodecamp.org/learn/)
 - [Codecademy](https://www.codecademy.com)
-- Codewars - Current point level: 6 kyu (225 points) [Codewars profile](https://www.codewars.com/users/Court94)
+- Programming with mosh [Youtube Channel](https://www.youtube.com/@programmingwithmosh)
 - Python Programmer - [Youtube Channel](https://www.youtube.com/@gilesmcmullen) 
-- [codewithmosh](https://codewithmosh.com/)
+- Codewars - Current point level: 6 kyu (225 points) [Codewars profile](https://www.codewars.com/users/Court94)
+
 
 ##
 <br/>
