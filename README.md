@@ -17,7 +17,7 @@ I enjoy working on challenging projects that require creative problem-solving an
 - [HackerRank](https://www.hackerrank.com/dashboard)
 - Programming with mosh - [Youtube Channel](https://www.youtube.com/@programmingwithmosh)
 - Python Programmer - [Youtube Channel](https://www.youtube.com/@gilesmcmullen) 
-- Codewars - Current point level: 6 kyu (225 points) [Codewars profile](https://www.codewars.com/users/Court94)
+- Codewars - Current point level: 5 kyu (315 points) [Codewars profile](https://www.codewars.com/users/Court94)
 
 
 ##
